@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5,
   font-size: 14px;
   letter-spacing: .2em;
   text-transform: uppercase;
-  color: #999999;
+  color: #000;
   -webkit-box-shadow: 0 5px 20px -5px rgba(0, 0, 0, 0.5);
   box-shadow: 0 5px 20px -5px rgba(0, 0, 0, 0.5); }
   .btn.btn-hover-white:hover {
@@ -489,9 +489,9 @@ textarea.form-control {
   .featured-donate h2, .featured-section h2 {
     color: #fff; }
   .featured-donate p, .featured-section p {
-    color: #fff; }
+    color: #000; }
   .featured-donate .featured-text, .featured-section .featured-text {
-    color: #fff;
+    color: #000;
     text-transform: uppercase;
     letter-spacing: .2em; }
   .featured-donate .donation-time, .featured-section .donation-time {
@@ -514,7 +514,7 @@ textarea.form-control {
       bottom: 0;
       opacity: .9; }
   .featured-donate.overlay-color-2:before, .featured-section.overlay-color-2:before {
-    background: #5d5079; }
+    background: #9FD7EB; }
 
 .form-volunteer h2 {
   font-size: 25px;
