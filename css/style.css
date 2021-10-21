@@ -10,7 +10,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #5d5079; }
+  color: #5ba1a3; }
   a:hover {
     text-decoration: none;
     color: #5d5079; }
@@ -644,7 +644,7 @@ textarea.form-control {
     .footer .block-21 .meta a:hover {
       color: #fff !important; }
   .footer a {
-    color: #5d5079; }
+    color: #a8daec; }
     .footer a:hover {
       color: #5d5079 !important; }
 
@@ -1627,7 +1627,7 @@ textarea.form-control {
   width: 40px;
   font-size: 18px;
   padding-top: 2px;
-  color: #5d5079; }
+  color: #a8daec; }
 
 .img-hover {
   position: relative;
